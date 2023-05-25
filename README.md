@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/yashjai64070783" target="blank"><img src="https://img.shields.io/twitter/follow/yashjai64070783?logo=twitter&style=for-the-badge" alt="yashjai64070783" /></a> </p>
 
-- 🔭 I’m currently working on **Meal Monkey**
+<!-- - 🔭 I’m currently working on **Meal Monkey**
 
 - 🌱 I’m currently learning **Flutter, Machine Learning, DSA, Firebase**
 
 - 👯 I’m looking to collaborate on **anything worth making**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yash-jain-1](https://github.com/yash-jain-1)
+- 👨‍💻 All of my projects are available at [https://github.com/yash-jain-1](https://github.com/yash-jain-1) -->
 
 - 📝 I regularly write articles on [https://www.tumblr.com/the-insightful-muon](https://www.tumblr.com/the-insightful-muon)
 
-- 💬 Ask me about **Flutter, dart, Firebase**
+<!-- - 💬 Ask me about **Flutter, dart, Firebase** -->
 
 - 📫 How to reach me **yashjainstudy@gmail.com**
 
