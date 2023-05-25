@@ -1,5 +1,5 @@
 <h1 align="center">Hoi 👋, I'm Yash Jain</h1>
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/bXsYaPWCWQB93n5vhY/video" width="480"></iframe></div>
+"https://giphy.com/embed/bXsYaPWCWQB93n5vhY/video"
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-jain-1&label=Profile%20views&color=0e75b6&style=flat" alt="yash-jain-1" /> </p>
