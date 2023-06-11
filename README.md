@@ -1,4 +1,4 @@
-<h1 align="center">Hoi 👋, I'm Yash Jain</h1>
+<h1 align="center">Hoi 👋, Yash here</h1>
 
 <img align="center" src="https://media.giphy.com/media/FCj2lt4LKtYyY/giphy.gif" alt="hi" height="250" width="400" />
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
