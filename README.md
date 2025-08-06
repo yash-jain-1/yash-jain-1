@@ -15,8 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash-jain-1](https://github.com/yash-jain-1) -->
 
-- 📝 I regularly write articles on [https://www.tumblr.com/the-insightful-muon](https://www.tumblr.com/the-insightful-muon)
-- Check out my portfolio website [Portfolio](https://yash-jain-1.github.io/portfolio-web/)
+- 📝 I regularly write articles on [the-insightful-muon](https://mu-blog-three.vercel.app/)
+- Check out my portfolio website [Portfolio]([https://yash-jain-1.github.io/portfolio-web/](https://yash-jain-1.github.io/Insightful-Muon/))
 
 <!-- - 💬 Ask me about **Flutter, dart, Firebase** -->
 
